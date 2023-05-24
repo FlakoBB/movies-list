@@ -1,3 +1,12 @@
+import Header from '../components/Header'
+import '../styles/globals.css'
+import { Jost } from 'next/font/google'
+
+const jost = Jost({
+  subsets: ['latin'],
+  display: 'swap'
+})
+
 export const metadata = {
   title: 'Movies List',
   openGraph: {
@@ -8,8 +17,11 @@ export const metadata = {
 
 export const RootLayout = ({ children }) => {
   return (
-    <html lang="en">
-      <body>{children}</body>
+    <html lang='en' className={jost.className}>
+      <body>
+        <Header />
+        {children}
+      </body>
     </html>
   )
 }

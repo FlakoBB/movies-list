@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "Pelicula 1",
+    "sinopsis": "Sinopsis de la pelicula 1",
+    "rating": "rating1",
+    "score": 9,
+    "director": "Director 1",
+    "cast": [
+      "Actor 1",
+      "Actor 2",
+      "Actress 1"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pelicula 2",
+    "sinopsis": "Sinopsis de la pelicula 2",
+    "rating": "rating1",
+    "score": 9,
+    "director": "Director 2",
+    "cast": [
+      "Actress 1",
+      "Actor 3",
+      "Actress 2"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pelicula 3",
+    "sinopsis": "Sinopsis de la pelicula 3",
+    "rating": "rating1",
+    "score": 9,
+    "director": "Director 1",
+    "cast": [
+      "Actor 1",
+      "Actor 2",
+      "Actress 1"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pelicula 4",
+    "sinopsis": "Sinopsis de la pelicula 4",
+    "rating": "rating1",
+    "score": 9,
+    "director": "Director 1",
+    "cast": [
+      "Actor 1",
+      "Actor 2",
+      "Actress 1"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Pelicula 5",
+    "sinopsis": "Sinopsis de la pelicula 5",
+    "rating": "rating1",
+    "score": 9,
+    "director": "Director 1",
+    "cast": [
+      "Actor 1",
+      "Actor 2",
+      "Actress 1"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Pelicula 6",
+    "sinopsis": "Sinopsis de la pelicula 6",
+    "rating": "rating1",
+    "score": 9,
+    "director": "Director 1",
+    "cast": [
+      "Actor 1",
+      "Actor 2",
+      "Actress 1"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Pelicula 7",
+    "sinopsis": "Sinopsis de la pelicula 7",
+    "rating": "rating1",
+    "score": 9,
+    "director": "Director 1",
+    "cast": [
+      "Actor 1",
+      "Actor 2",
+      "Actress 1"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Pelicula 8",
+    "sinopsis": "Sinopsis de la pelicula 8",
+    "rating": "rating1",
+    "score": 9,
+    "director": "Director 1",
+    "cast": [
+      "Actor 1",
+      "Actor 2",
+      "Actress 1"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Pelicula 9",
+    "sinopsis": "Sinopsis de la pelicula 9",
+    "rating": "rating1",
+    "score": 9,
+    "director": "Director 1",
+    "cast": [
+      "Actor 1",
+      "Actor 2",
+      "Actress 1"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Pelicula 10",
+    "sinopsis": "Sinopsis de la pelicula 10",
+    "rating": "rating1",
+    "score": 9,
+    "director": "Director 1",
+    "cast": [
+      "Actor 1",
+      "Actor 2",
+      "Actress 1"
+    ]
+  }
+]
