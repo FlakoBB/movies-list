@@ -33,7 +33,7 @@ export const Header = () => {
         </nav>
       </div>
       <div className={styles.search}>
-        <input type='text' placeholder='buscar' />
+        <input type='text' placeholder='Buscar' />
       </div>
     </header>
   )

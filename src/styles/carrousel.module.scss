@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 0 2rem;
+
+  .btn_roll {
+    width: 8rem;
+    height: 8rem;
+    font-size: 4rem;
+    font-weight: bold;
+    background: none;
+    border: none;
+    outline: none;
+    border-radius: .6rem;
+    color: #21AA21;
+    opacity: .5;
+
+    &:hover {
+      cursor: pointer;
+      opacity: 1;
+      background-color: #21aa2157;
+    }
+  }
+
+  .carrousel {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2rem;
+    padding: 2rem 0;
+    overflow-x: scroll;
+  }
+}

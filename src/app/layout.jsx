@@ -12,6 +12,7 @@ export const metadata = {
   openGraph: {
     title: 'Movies List',
     description: 'Aplicacion de servicio de streaming de peliculas usando la API de TMDB'
+    // ToDo: Poner una imagen para preview cuando se comparta el enlace de la aplicación.
   }
 }
 

@@ -1,14 +1,17 @@
-import movies from '../models/movies.json'
+import Carrousel from '../components/Carrousel'
+import utilStyles from '../styles/utils.module.css'
 
 export const Home = () => {
   return (
     <main>
-      <h1>Hola Mundo</h1>
-      {
-        movies.map(movie => (
-          <div key={movie.id}>{movie.title}</div>
-        ))
-      }
+      <section>
+        <h1 className={utilStyles.sectionTitle}>Top 10 Películas</h1>
+        <Carrousel />
+      </section>
+      <section>
+        <h1 className={utilStyles.sectionTitle}>Top 10 Series</h1>
+        <Carrousel />
+      </section>
     </main>
   )
 }
