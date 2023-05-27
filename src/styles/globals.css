@@ -9,3 +9,16 @@ body {
   min-height: 100dvh;
   background-color: #BCFFBC;
 }
+
+::-webkit-scrollbar {
+    width: .4rem;
+    background-color: #185518;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #21AA21;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #BCFFBC;
+}
